@@ -1,0 +1,35 @@
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.xml
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Resources.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.vbproj.GenerateResource.cache
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.vbproj.CoreCompileInputs.cache
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.xml
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmEmployee.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.AddEmployeeForm.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.MainForm.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmDatabase.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmUser.resources
+D:\Project\Employee Management System\Employee Management System\bin\Debug\MySql.Data.dll
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.vbproj.CopyComplete
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmAddFile.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmEmployeeFile.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmLogIn.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmEmployeePosition.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmUpdateEmployeePosition.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmConfirm.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmSelectEmployee.resources
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Google.Protobuf.dll
+D:\Project\Employee Management System\Employee Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Renci.SshNet.dll
+D:\Project\Employee Management System\Employee Management System\bin\Debug\MySql.Data.xml
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.manifest
+D:\Project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.application
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe.manifest
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.application
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmStore.resources
+D:\Project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.frmEmploymentHistory.resources
