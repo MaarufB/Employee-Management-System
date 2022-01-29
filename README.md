@@ -1,2 +1,2 @@
 # Employee Management System
-    test
+    Employee Management System with VB.NET and MySQL
