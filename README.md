@@ -1,2 +1,2 @@
 # Employee Management System
-    Employee Management System with VB.NET and MySQL
+    This windows application was developed using VB.NET with MySQL Database. 
